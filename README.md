@@ -1,3 +1,1 @@
-Hello Git touch README.md! 
-welcome to this repols!
-welcome to this repo!
+Hello , welcome to git version control
